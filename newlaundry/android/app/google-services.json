@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "259352836901",
+    "firebase_url": "https://flutter-firebase-ba75e.firebaseio.com",
+    "project_id": "flutter-firebase-ba75e",
+    "storage_bucket": "flutter-firebase-ba75e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259352836901:android:374f21fda977439b20b8cc",
+        "android_client_info": {
+          "package_name": "com.example.newlaundry1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259352836901-9lnfbdguki383tm9migcsmg9vlo9s015.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxbFoXT4xl7WwhCN32KYwZ5tq293KJZ3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259352836901-9lnfbdguki383tm9migcsmg9vlo9s015.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
